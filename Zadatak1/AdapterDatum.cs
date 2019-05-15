@@ -2,6 +2,10 @@ namespace Zadatak1
 {
     public class AdapterDatum : IDatum
     {
+        public AdapterDatum()
+        {
+        }
+
         private string BrojUMjesec(int mjesec)
         {
 
@@ -43,5 +47,7 @@ namespace Zadatak1
         {
             return Brojdana_godina(BrojUMjesec(mjesec), dan);
         }
+
+        
     }
 }
