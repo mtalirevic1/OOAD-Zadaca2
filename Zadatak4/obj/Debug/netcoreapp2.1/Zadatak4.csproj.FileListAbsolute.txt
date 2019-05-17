@@ -1,0 +1,11 @@
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\bin\Debug\netcoreapp2.1\Zadatak4.deps.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\bin\Debug\netcoreapp2.1\Zadatak4.runtimeconfig.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\bin\Debug\netcoreapp2.1\Zadatak4.runtimeconfig.dev.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\bin\Debug\netcoreapp2.1\Zadatak4.dll
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\bin\Debug\netcoreapp2.1\Zadatak4.pdb
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.csprojAssemblyReference.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.csproj.CoreCompileInputs.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.AssemblyInfoInputs.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.AssemblyInfo.cs
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.dll
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak4\obj\Debug\netcoreapp2.1\Zadatak4.pdb
