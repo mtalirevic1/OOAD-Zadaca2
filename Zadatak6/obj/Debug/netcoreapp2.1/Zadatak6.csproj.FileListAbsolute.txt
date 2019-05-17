@@ -1,0 +1,11 @@
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\bin\Debug\netcoreapp2.1\Zadatak6.deps.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\bin\Debug\netcoreapp2.1\Zadatak6.runtimeconfig.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\bin\Debug\netcoreapp2.1\Zadatak6.runtimeconfig.dev.json
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\bin\Debug\netcoreapp2.1\Zadatak6.dll
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\bin\Debug\netcoreapp2.1\Zadatak6.pdb
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.csprojAssemblyReference.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.csproj.CoreCompileInputs.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.AssemblyInfoInputs.cache
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.AssemblyInfo.cs
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.dll
+C:\Users\talir\RiderProjects\OOAD-Zadaca2\Zadatak6\obj\Debug\netcoreapp2.1\Zadatak6.pdb
