@@ -11,7 +11,9 @@ namespace Zadatak6
             Aukcija aukcija=new Aukcija(new List<Observer>(),0,"");
             Observer.Aukcija = aukcija;
             Observer observer1=new PredstavnikPrva();
-            Observer observer2=new PredstavnikTreca();           
+            Observer observer2=new PredstavnikTreca(); 
+            Observer.Aukcija.Observeri.Add(observer1);
+            Observer.Aukcija.Observeri.Add(observer2);
             observer1.AdapterNotifikacija=new AdapterNotifikacija();            
             observer2.AdapterNotifikacija=new AdapterNotifikacija();
             observer1.PostaviPonudu(20);
